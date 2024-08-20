@@ -22,7 +22,7 @@
 
   --united-nations-blue: hsl(29, 100%, 50%);
   --bright-navy-blue: hsla(44, 100%, 50%, 0.712);
-  --spanish-gray: hsla(256, 100%, 50%, 0);
+  --spanish-gray: hsla(0, 81%, 50%, 0.952);
   --black-coral: hsl(0, 0%, 0%);
   --oxford-blue: hsl(221, 98%, 51%);
   --yale-blue: hsl(315, 40%, 2%);
@@ -30,7 +30,7 @@
   --gunmetal: hsla(29, 100%, 49%, 0.89);
   --gainsboro: hsl(0, 0%, 88%);
   --cultured: hsl(0, 0%, 98%);
-  --white: hsl(0, 0%, 0%);
+  --white: hsl(0, 0%, 100%);
   --black: hsl(0, 0%, 0%);
   --onyx: hsl(0, 0%, 25%);
   --jet: hsl(0, 0%, 20%);
